@@ -121,22 +121,22 @@
   
   @keyframes changetext {
     0% {
-      content: "Darjeeling";
+      content: "Hazratganj";
     }
     20% {
-      content: "Lucknow";
+      content: "Rumi Darwaza";
     }
     35% {
-      content: "Jaipur";
+      content: "Bara Imambara";
     }
     60% {
-      content: "kerala";
+      content: "Gomti River Front";
     }
     80% {
-      content: "delhi";
-    }
+      content: "Ambedkar Memorial Park";
+      }
     100% {
-      content: "Mumbai";
+      content: "Integral University";
     }
   }
   view rawstyle.css hosted with
